@@ -1,3 +1,2 @@
 # news
-asdasdasdsd
-con mua ngnang qua
+tao day ne
